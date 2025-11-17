@@ -51,7 +51,7 @@
     "rollup-plugin-clear": "^2.0.7",
     "rollup-plugin-screeps": "^1.0.0",
     "rollup-plugin-typescript2": "^0.31.2",
-    "sinon": "^6.3.5",
+    "sinon": "^21.0.0",
     "sinon-chai": "^4.0.1",
     "ts-node": "^10.7.0",
     "tsconfig-paths": "^3.9.0",
